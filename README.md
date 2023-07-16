@@ -2,6 +2,7 @@
 Rotten Tomatoes is a popular website for rating and reviewing movies and TV shows.
 The goal of this project is to train a model that is able to classify the reviews into 5 different sentiment categories
 (negative, somewhat negative, neutral, somewhat positive, positive) using sentiment analysis.
+I wrote a blog about the project which you can read here https://medium.com/@aziz.office22/sentiment-analysis-of-rotten-tomatoes-reviews-dac8977a0782
 
 ## Table of Contents:
 1. Overview
